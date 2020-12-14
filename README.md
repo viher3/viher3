@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**viher3/viher3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 My Stats:     <a href="https://github.com/viher3"> <img src="https://komarev.com/ghpvc/?username=viher3&label=Profile+Views&color=2e8b57&style=flat" /></a>
+<p align="center">
+<a href="https://github.com/viher3">
+  <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" /></a>
+<a href="https://github.com/viher3/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=viher3&layout=compact&theme=dark" /></a>
+<p>&nbsp;</p>
+
