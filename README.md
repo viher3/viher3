@@ -9,11 +9,9 @@
 - ⚡ Fun fact: ...
 -->
 
-## 📈 My Stats:     <a href="https://github.com/viher3"> <img src="https://komarev.com/ghpvc/?username=viher3&label=Profile+Views&color=2e8b57&style=flat" /></a>
+## 📈 My Stats &nbsp;<a href="https://github.com/viher3"> <img src="https://komarev.com/ghpvc/?username=viher3&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
-<a href="https://github.com/viher3">
-  <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" /></a>
-<a href="https://github.com/viher3/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=viher3&layout=compact&theme=dark" /></a>
-<p>&nbsp;</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" />
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=viher3&layout=compact&theme=dark" />
+</p>
 
