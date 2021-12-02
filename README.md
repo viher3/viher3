@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## 📈 My Stats&nbsp;<a href="https://github.com/viher3"> <img src="https://komarev.com/ghpvc/?username=viher3&label=Profile+Views&color=2e8b57&style=flat" /></a>
+## 📈 My Stats&nbsp;<a href="https://github.com/viher3"></a>
 <p align="center">
   <a href="https://github.com/viher3">
   <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" />
