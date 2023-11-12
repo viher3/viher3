@@ -12,9 +12,7 @@
 ## 📈 My Stats&nbsp;<a href="https://github.com/viher3"></a>
 <p align="center">
   <a href="https://github.com/viher3">
-  <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/viher3">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=viher3&layout=compact&theme=dark&langs_count=8" />
+    <img src="https://myreadme.vercel.app/api/embed/viher3?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" /> -->
   </a>
 </p>
