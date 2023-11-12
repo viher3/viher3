@@ -14,4 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viher3&show_icons=true&theme=transparent)
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=viher3&limit=5)
+
 </p>
