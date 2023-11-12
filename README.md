@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viher3&label=Profile%20views&color=0e75b6&style=flat" alt="viher3" /> </p>
 
-- 🔭 I’m currently working on [DIGI SPAIN TELECOM](https://www.digimobil.es/)
-
 - 🌱 I’m currently learning **Event-Driven architectures, Microservices and Rust.**
 
 - 📫 How to reach me **alberto@albertolabs.com**
