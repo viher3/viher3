@@ -11,10 +11,7 @@
 
 ## 📈 My Stats&nbsp;<a href="https://github.com/viher3"></a>
 <p align="center">
-  <a href="https://github.com/viher3">
-    <img src="https://myreadme.vercel.app/api/embed/viher3?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=viher3&count_private=true&show_icons=true&theme=dark" /> -->
-  </a>
-</p>
 
-<img src="https://img.shields.io/github/stars/viher3?label=Stars" alt="stars">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viher3&show_icons=true&theme=transparent)
+
+</p>
