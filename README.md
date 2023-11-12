@@ -9,11 +9,6 @@
 - ⚡ Fun fact: ...
 -->
 
-## 📈 My Stats&nbsp;<a href="https://github.com/viher3"></a>
-<p align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viher3&show_icons=true&theme=transparent)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=viher3&limit=5)
-
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=viher3&theme=dark&mode=weekly)](https://git.io/streak-stats)
