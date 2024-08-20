@@ -27,9 +27,13 @@ Think twice, code once!
 ![Others](https://skillicons.dev/icons?i=linux,windows,raspberrypi)
 <br />
 ![Others](https://skillicons.dev/icons?i=nginx,grafana,jenkins)
+<br />
 ![Others](https://skillicons.dev/icons?i=aws,gcp,cloudflare)
+<br />
 ![Others](https://skillicons.dev/icons?i=git,github,gitlab)
+<br />
 ![Others](https://skillicons.dev/icons?i=postman,figma,notion)
+<br />
 ![Others](https://skillicons.dev/icons?i=wordpress)
 
 
