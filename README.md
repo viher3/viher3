@@ -25,6 +25,7 @@ Think twice, code once!
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=linux,windows,raspberrypi)
+<br />
 ![Others](https://skillicons.dev/icons?i=nginx,grafana,jenkins)
 ![Others](https://skillicons.dev/icons?i=aws,gcp,cloudflare)
 ![Others](https://skillicons.dev/icons?i=git,github,gitlab)
