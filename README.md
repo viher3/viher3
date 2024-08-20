@@ -24,4 +24,4 @@ Think twice, code once!
 ![Persistence Systems](https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch,sqllite)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=linux,nginx,jenkins,git,github,gitlab,wordpress,selenium,figma,phpstorm,postman,notion,raspberrypi,windows)
+![Others](https://skillicons.dev/icons?i=linux,windows,raspberrypi,nginx,jenkins,wordpress,git,github,gitlab,selenium,phpstorm,postman,figma,notion&perline=3)
