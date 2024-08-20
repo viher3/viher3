@@ -23,17 +23,17 @@ Think twice, code once!
 #### Persistence Systems
 ![Persistence Systems](https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch,sqllite)
 
+#### Cloud & DevOps
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,cloudflare)
+<br />
+![Cloud & DevOps](https://skillicons.dev/icons?i=nginx,grafana,jenkins)
+<br />
+![Cloud & DevOps](https://skillicons.dev/icons?i=git,github,gitlab)
+
+#### Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=linux,windows,raspberrypi)
+
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=linux,windows,raspberrypi)
-<br />
-![Others](https://skillicons.dev/icons?i=nginx,grafana,jenkins)
-<br />
-![Others](https://skillicons.dev/icons?i=aws,gcp,cloudflare)
-<br />
-![Others](https://skillicons.dev/icons?i=git,github,gitlab)
-<br />
-![Others](https://skillicons.dev/icons?i=postman,figma,notion)
-<br />
-![Others](https://skillicons.dev/icons?i=wordpress)
+![Others](https://skillicons.dev/icons?i=postman,figma,notion,wordpress)
 
 
