@@ -24,16 +24,12 @@ Think twice, code once!
 ![Persistence Systems](https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch,sqllite)
 
 #### Cloud & DevOps
-![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,cloudflare)
-<br />
-![Cloud & DevOps](https://skillicons.dev/icons?i=nginx,grafana,jenkins)
-<br />
-![Cloud & DevOps](https://skillicons.dev/icons?i=git,github,gitlab)
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,cloudflare,nginx,grafana,jenkins,github,gitlab)
 
 #### Operating Systems
 ![Operating Systems](https://skillicons.dev/icons?i=linux,windows,raspberrypi)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=postman,figma,notion,wordpress)
+![Others](https://skillicons.dev/icons?i=wordpress,git,postman,figma,notion)
 
 
