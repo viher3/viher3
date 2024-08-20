@@ -15,7 +15,7 @@ Think twice, code once!
 ![Languages](https://skillicons.dev/icons?i=php,js,typescript,java,python,rust)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,vuejs,html,css,sass,jquery,vite,npm,webpack)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,vuejs,html,css,sass,jquery,vite,npm,webpack,selenium)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=symfony,spring,rabbitmq,docker)
@@ -24,4 +24,11 @@ Think twice, code once!
 ![Persistence Systems](https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch,sqllite)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=linux,windows,raspberrypi,nginx,grafana,jenkins,selenium,aws,gcp,cloudflare,wordpress,git,github,gitlab,postman,figma,notion&perline=7)
+![Others](https://skillicons.dev/icons?i=linux,windows,raspberrypi)
+![Others](https://skillicons.dev/icons?i=nginx,grafana,jenkins)
+![Others](https://skillicons.dev/icons?i=aws,gcp,cloudflare)
+![Others](https://skillicons.dev/icons?i=git,github,gitlab)
+![Others](https://skillicons.dev/icons?i=postman,figma,notion)
+![Others](https://skillicons.dev/icons?i=wordpress)
+
+
