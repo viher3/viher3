@@ -2,7 +2,7 @@ Think twice, code once!
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viher3&theme=tokyonight)
 
-- 🌱 I’m currently learning **Event-Driven architectures, Microservices and Rust.**
+- 🌱 I’m currently learning **Event-Driven architectures, Microservices and Go.**
 
 - 📫 How to reach me **alberto@albertolabs.com**
 
