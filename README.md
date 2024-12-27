@@ -2,8 +2,6 @@ Think twice, code once!
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viher3&theme=tokyonight)
 
-- 🌱 I’m currently learning **Event-Driven architectures, Microservices and Go.**
-
 - 📫 How to reach me **alberto@albertolabs.com**
 
 <hr />
@@ -12,7 +10,7 @@ Think twice, code once!
 
 #### Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=php,js,typescript,java,python,go)
+![Languages](https://skillicons.dev/icons?i=php,js,typescript,java,python)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,vuejs,html,css,sass,jquery,vite,npm,webpack,selenium)
