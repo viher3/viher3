@@ -12,7 +12,7 @@ Think twice, code once!
 
 #### Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=php,js,typescript,java,python,rust)
+![Languages](https://skillicons.dev/icons?i=php,js,typescript,java,python,go)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,vuejs,html,css,sass,jquery,vite,npm,webpack,selenium)
